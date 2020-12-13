@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	setlocale(LC_ALL, "Rus");
+	int A, B, C, N;
+	try {
+		cout << "Введите стоимость основания спиннера " << endl;
+		cin >> A;
+		cout << "Введите стоимость одной лопасти " << endl;
+		cin >> B;
+		cout << "Введите максимальную цену спиннера " << endl;
+		cin >> C;
+		if (A < 0 || B < 0 || C < 0) {
+			throw "wrong input";
+		}
+		cout << (C - A) / B << endl;
+	}
+	catch(const char* exception) {
+		cout << "Error: " << exception << endl;
+	}
+   	return 0;
+}

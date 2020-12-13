@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project96\project96\source.cpp(14): warning C4101: y: неиспользованная локальная переменная
+c:\users\komar\source\repos\project96\project96\source.cpp(14): warning C4101: x: неиспользованная локальная переменная
+  Project96.vcxproj -> C:\Users\komar\source\repos\Project96\Debug\Project96.exe

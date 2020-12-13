@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project70\project70\source.cpp(22): warning C4715: Modul: значение возвращается не при всех путях выполнения
+  Project70.vcxproj -> C:\Users\komar\source\repos\Project70\Debug\Project70.exe

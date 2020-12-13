@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project103\project103\source.cpp(18): error C4700: использована неинициализированная локальная переменная "a"

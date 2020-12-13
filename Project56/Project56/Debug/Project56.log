@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project56\project56\source.cpp(10): error C2562: Modul: функция типа "void", возвращающая значение
+  c:\users\komar\source\repos\project56\project56\source.cpp(8): note:  см. объявление "Modul"

@@ -1,0 +1,25 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtree(1343): error C2675: унарный "++": "_Iter" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Iter=std::string
+          ]
+  c:\users\komar\source\repos\project90\project90\source.cpp(17): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<std::string>(_Iter,_Iter)"
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::string,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::string>>,
+              _Iter=std::string
+          ]
+  c:\users\komar\source\repos\project90\project90\source.cpp(17): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<std::string>(_Iter,_Iter)"
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::string,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::string>>,
+              _Iter=std::string
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtree(1345): error C2100: недопустимое косвенное обращение

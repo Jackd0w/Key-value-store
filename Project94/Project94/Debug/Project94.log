@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project94\project94\source.cpp(23): error C2664: "void one_tr(int &,int &)": невозможно преобразовать аргумент 1 из "float" в "int &"

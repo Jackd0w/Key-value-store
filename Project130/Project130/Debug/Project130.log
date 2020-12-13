@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project130.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\komar\source\repos\project130\project130\source.cpp(40): error C4716: OponentPiece: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(36): error C4716: HumanPiece: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(28): error C4716: Ask_Yes_No: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(48): error C4716: winner: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(52): error C4716: IsLegal: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(60): error C4716: computerMove: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(56): error C4716: HumanMove: должна возвращать значение
+c:\users\komar\source\repos\project130\project130\source.cpp(32): error C4716: Ask_Number: должна возвращать значение

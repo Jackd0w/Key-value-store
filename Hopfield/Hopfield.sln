@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hopfield", "Hopfield\Hopfield.vcxproj", "{F91A916A-96E7-411E-BB86-1DF908BC32BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Debug|x64.ActiveCfg = Debug|x64
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Debug|x64.Build.0 = Debug|x64
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Debug|x86.Build.0 = Debug|Win32
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Release|x64.ActiveCfg = Release|x64
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Release|x64.Build.0 = Release|x64
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Release|x86.ActiveCfg = Release|Win32
+		{F91A916A-96E7-411E-BB86-1DF908BC32BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36947118-EE34-4CCB-81A9-D12F40AEB54E}
+	EndGlobalSection
+EndGlobal

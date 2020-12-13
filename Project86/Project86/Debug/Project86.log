@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project86\project86\source.cpp(1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\komar\source\repos\project86\project86\source.cpp(1): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "GetFullNameWithHistory"
+c:\users\komar\source\repos\project86\project86\source.cpp(1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\komar\source\repos\project86\project86\source.cpp(1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

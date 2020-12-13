@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project80\project80\source.cpp(7): warning C4101: num: неиспользованная локальная переменная
+  Project80.vcxproj -> C:\Users\komar\source\repos\Project80\Debug\Project80.exe

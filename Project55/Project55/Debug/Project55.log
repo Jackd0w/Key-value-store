@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3583): error C2446: ==: нет преобразования "_Ty (__cdecl &)" в "int"
+          with
+          [
+              _Ty=bool (int)
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(3583): note: Не существует контекста, в котором такое преобразование возможно
+  c:\users\komar\source\repos\project55\project55\source.cpp(26): note: выполняется компиляция ссылки на экземпляр шаблон функции "int std::count<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,bool(int)>(const _InIt,const _InIt,bool (__cdecl &)(int))"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]

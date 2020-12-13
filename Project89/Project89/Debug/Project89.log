@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "class std::vector<struct Pearson,class std::allocator<struct Pearson> > __cdecl GetMoscowPopulation(void)" (?GetMoscowPopulation@@YA?AV?$vector@UPearson@@V?$allocator@UPearson@@@std@@@std@@XZ) т ЇєэъЎшш _main
+C:\Users\komar\source\repos\Project89\Debug\Project89.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1

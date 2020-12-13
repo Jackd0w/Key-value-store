@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project101\project101\source.cpp(45): error C2664: "void sort3(int *,int *,int *)": невозможно преобразовать аргумент 1 из "int" в "int *"
+  c:\users\komar\source\repos\project101\project101\source.cpp(45): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

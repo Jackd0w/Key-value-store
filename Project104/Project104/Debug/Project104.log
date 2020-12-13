@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project104\project104\source.cpp(17): error C4700: использована неинициализированная локальная переменная "dx"
+c:\users\komar\source\repos\project104\project104\source.cpp(18): error C4700: использована неинициализированная локальная переменная "y"
+c:\users\komar\source\repos\project104\project104\source.cpp(18): error C4700: использована неинициализированная локальная переменная "x"

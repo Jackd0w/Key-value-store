@@ -1,0 +1,45 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int m, k3, k4;
+    cin >> m;
+    switch (m % 4)
+    {
+    case 0:
+        {
+            k3 = 0;
+            k4 = m / 4;
+            break;
+        }
+    case 1:
+        {
+            k3 = 3;
+            k4 = (m - 9) / 4;
+            break;
+        }
+    case 2:
+        {
+            k3 = 2;
+            k4 = (m - 6) / 4;
+            break;
+        }
+    case 3:
+        {
+            k3 = 1;
+            k4 = (m - 3) / 4;
+            break;
+        }
+    }
+    if (m == 1 || m == 2 || m == 5)
+    {
+        cout << "0 0" << endl;
+    }
+    else
+    {
+        cout << k3 << " " << k4 << endl;
+    }
+    return 0;
+}

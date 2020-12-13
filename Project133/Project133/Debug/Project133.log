@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\komar\source\repos\project133\project133\source.cpp(7): error C2065: number: необъявленный идентификатор
+c:\users\komar\source\repos\project133\project133\source.cpp(8): error C2059: синтаксическая ошибка: if
+c:\users\komar\source\repos\project133\project133\source.cpp(10): error C2059: синтаксическая ошибка: else
+c:\users\komar\source\repos\project133\project133\source.cpp(12): error C2059: синтаксическая ошибка: else
+c:\users\komar\source\repos\project133\project133\source.cpp(14): error C2059: синтаксическая ошибка: else
+c:\users\komar\source\repos\project133\project133\source.cpp(16): error C2059: синтаксическая ошибка: else
+c:\users\komar\source\repos\project133\project133\source.cpp(18): error C2059: синтаксическая ошибка: else
+c:\users\komar\source\repos\project133\project133\source.cpp(21): error C2059: синтаксическая ошибка: return
+c:\users\komar\source\repos\project133\project133\source.cpp(22): error C2059: синтаксическая ошибка: }
+c:\users\komar\source\repos\project133\project133\source.cpp(22): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+c:\users\komar\source\repos\project133\project133\source.cpp(24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\komar\source\repos\project133\project133\source.cpp(24): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\komar\source\repos\project133\project133\source.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\komar\source\repos\project133\project133\source.cpp(67): error C2065: numberDdecimalPlaces: необъявленный идентификатор
+c:\users\komar\source\repos\project133\project133\source.cpp(74): error C2065: numberDdecimalPlaces: необъявленный идентификатор
+c:\users\komar\source\repos\project133\project133\source.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\komar\source\repos\project133\project133\source.cpp(82): error C3861: GetNumber: идентификатор не найден
+c:\users\komar\source\repos\project133\project133\source.cpp(89): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\komar\source\repos\project133\project133\source.cpp(90): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\komar\source\repos\project133\project133\source.cpp(97): error C3861: GetStringNumber: идентификатор не найден
+c:\users\komar\source\repos\project133\project133\source.cpp(107): error C3861: GetStringNumber: идентификатор не найден
+c:\users\komar\source\repos\project133\project133\source.cpp(135): error C3861: ConvertingDecimalNumberSystemSelectedCC: идентификатор не найден
